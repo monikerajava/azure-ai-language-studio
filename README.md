@@ -10,7 +10,7 @@ O Azure AI Foundry portal é a plataforma da Microsoft onde você pode criar apl
 
 Para começar, é necessário **criar um projeto** dentro do portal.
 
-![Estrutura do Azure AI Foundry](imagens/foundry-stack-wp.png)
+![Estrutura do Azure AI Foundry](images/foundry-stack-wp.png)
 
 ### Como Criar um Projeto
 
