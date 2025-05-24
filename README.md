@@ -123,9 +123,22 @@ Para evitar custos desnecessários, é importante excluir os recursos criados se
 
 ## Saiba Mais
 
-Os documentos mencionam que os exercícios demonstram apenas algumas das muitas capacidades dos serviços. Para aprender mais sobre o que você pode fazer com estes serviços, você pode consultar as páginas dedicadas ao **Language service** e ao **Speech service**.
+Para aprender mais sobre o que você pode fazer com estes serviços, você pode consultar as páginas dedicadas ao **Language service** e ao **Speech service**.
 
 https://aka.ms/ai900-speech
 
 https://aka.ms/ai900-text-analysis
+
+## Links adicionais
+Documentações Oficiais 
+Explore Speech Studio - Laboratório no Microsoft Learning
+
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html
+
+
+Analyze text with Language Studio - Laboratório no Microsoft Learning
+
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html
+
+
 ***
